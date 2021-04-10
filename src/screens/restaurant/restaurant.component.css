@@ -1,0 +1,39 @@
+.restaurantCard {
+    display: flex;
+    margin: 10px;
+    flex-direction: row;
+    height: 125px;
+    width: 50%;
+    border-radius: 20px;
+    opacity: 0.9;
+    background-color: #ffff;
+    box-shadow: rgb(38 57 77) 0px 20px 30px -10px;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+.restaurantCard img {
+    border-radius: 20px;
+    flex: 2;
+}
+
+.details {
+    display: flex;
+    margin-left: 20px;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+    overflow: scroll;
+    flex: 7;
+}
+
+.normal-margin {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.heading {
+    color: #ffff;
+    font-size: 32px;
+    font-family: cursive;
+}

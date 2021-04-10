@@ -1,0 +1,93 @@
+[
+    {
+        "id": "1b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4be1",
+        "name": "Brio Italian Grille",
+        "image": "https://i.ibb.co/cNrYC6S/izabela-rutkowski-Nme6-Tb-Wu-Vp-A-unsplash.jpg",
+        "description": "Opened in 1992, the Brio original management team sold the chain in 2018, and just this year, the team filed for bankruptcy. Wonder if they'll make this list in 2021?",
+        "location": {
+            "street": "12370 S Mainstreet",
+            "city": "Rancho Cucamonga",
+            "state": "California",
+            "pincode": "91739",
+            "country": "USA"
+        }
+    },
+    {
+        "id": "2b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4be1",
+        "name": "Romano's Macaroni Grill",
+        "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F200707-r-xl-grilled-vegetable-bruschetta.jpg%3Fitok%3DkP4cvjXP&w=1600&q=70",
+        "description": "Romano's Macaroni Grill was founded in Texas in 1988 by Philip Romano. The restauranteur.",
+        "location": {
+            "street": "12370 S Mainstreet",
+            "city": "Rancho Cucamonga",
+            "state": "California",
+            "pincode": "91739",
+            "country": "USA"
+        }
+    },
+    {
+        "id": "3b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4be1",
+        "name": "Legal Sea Foods",
+        "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2F200907-r-zucchini-gratin.jpg&w=1600&q=70",
+        "description": "One of the most popular seafood restaurants of Boston began its expansion in the 1990s and is now beloved up and down the Eastern Seaboard. As one Yelper exclaims",
+        "location": {
+            "street": "12370 S Mainstreet",
+            "city": "Rancho Cucamonga",
+            "state": "California",
+            "pincode": "91739",
+            "country": "USA"
+        }
+    },
+    {
+        "id": "4b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4be1",
+        "name": "Bahama Breeze Island Grille",
+        "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F201305-xl-scallop-ceviche-with-aguachile.jpg%3Fitok%3DRoCrD6i6&w=1600&q=70",
+        "description": "One of the newest restaurants on this list, Bahama Breeze was first introduced to the country in Orlando in the mid-1990s. Fittingly as kitschy as the nearby amusement parks.",
+        "location": {
+            "street": "12370 S Mainstreet",
+            "city": "Rancho Cucamonga",
+            "state": "California",
+            "pincode": "91739",
+            "country": "USA"
+        }
+    },
+    {
+        "id": "5b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4be1",
+        "name": "Sizzler",
+        "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2F200909-xl-roast-beef-summer-rolls_0.jpg&w=1600&q=70",
+        "description": "It may be one of the oldest steakhouse chains appearing on the list — it opened in 1958 — but it's still in the top 40 chains with the more modern big boys",
+        "location": {
+            "street": "12370 S Mainstreet",
+            "city": "Rancho Cucamonga",
+            "state": "California",
+            "pincode": "91739",
+            "country": "USA"
+        }
+    },
+    {
+        "id": "6b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4be1",
+        "name": "Pappadeux Seafood Kitchen",
+        "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F201006-r-xl-grilled-tomato-crostini.jpg%3Fitok%3DNCOaJFQW&w=1600&q=70",
+        "description": "Market Force finds that seafood restaurants are slugging behind other casual dining options and have fewer visitors than other chains. Still, Pappadeaux makes it onto the list.",
+        "location": {
+            "street": "12370 S Mainstreet",
+            "city": "Rancho Cucamonga",
+            "state": "California",
+            "pincode": "91739",
+            "country": "USA"
+        }
+    },
+    {
+        "id": "7b9d6bcd-bbfd-4b2d-9b5d-ab8dfbbd4be1",
+        "name": "Bar Louie",
+        "image": "https://imagesvc.timeincapp.com/v3/mm/image?url=https%3A%2F%2Fcdn-image.foodandwine.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2F201106-xl-pickled-shrimp.jpg%3Fitok%3DIkKE-_0Z&w=1600&q=70",
+        "description": "This self-proclaimed \"gastrobar\" that wants to be your neighborhood watering hole got its start in Chicago in 1991",
+        "location": {
+            "street": "12370 S Mainstreet",
+            "city": "Rancho Cucamonga",
+            "state": "California",
+            "pincode": "91739",
+            "country": "USA"
+        }
+    }
+]
